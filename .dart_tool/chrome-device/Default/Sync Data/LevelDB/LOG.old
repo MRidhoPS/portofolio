@@ -1,14 +1,23 @@
-2024/10/17-17:20:12.012 55f8 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.64b60a64\flutter_tools_chrome_device.62a24ebc\Default\Sync Data\LevelDB/MANIFEST-000001
-2024/10/17-17:20:12.014 55f8 Recovering log #23
-2024/10/17-17:20:12.019 55f8 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.64b60a64\flutter_tools_chrome_device.62a24ebc\Default\Sync Data\LevelDB/000023.log 
-2024/10/17-17:20:12.021 55f8 Delete type=0 #3
-2024/10/17-17:20:12.021 55f8 Delete type=0 #6
-2024/10/17-17:20:12.022 55f8 Delete type=2 #7
-2024/10/17-17:20:12.022 55f8 Delete type=2 #10
-2024/10/17-17:20:12.022 55f8 Delete type=0 #11
-2024/10/17-17:20:12.022 55f8 Delete type=2 #12
-2024/10/17-17:20:12.022 55f8 Delete type=0 #16
-2024/10/17-17:20:12.022 55f8 Delete type=0 #20
-2024/10/17-17:20:18.724 5e0 Level-0 table #27: started
-2024/10/17-17:20:18.743 5e0 Level-0 table #27: 115067 bytes OK
-2024/10/17-17:20:18.745 5e0 Delete type=0 #23
+2024/11/25-13:42:38.118 eb4 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.701b6286\flutter_tools_chrome_device.1da51f15\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/11/25-13:42:38.121 eb4 Recovering log #29
+2024/11/25-13:42:38.123 eb4 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.701b6286\flutter_tools_chrome_device.1da51f15\Default\Sync Data\LevelDB/000029.log 
+2024/11/25-13:42:38.124 eb4 Delete type=0 #3
+2024/11/25-13:42:38.124 eb4 Delete type=0 #6
+2024/11/25-13:42:38.124 eb4 Delete type=2 #7
+2024/11/25-13:42:38.124 eb4 Delete type=2 #10
+2024/11/25-13:42:38.125 eb4 Delete type=0 #11
+2024/11/25-13:42:38.125 eb4 Delete type=2 #12
+2024/11/25-13:42:38.125 eb4 Delete type=0 #16
+2024/11/25-13:42:38.125 eb4 Delete type=2 #18
+2024/11/25-13:42:38.135 eb4 Delete type=0 #20
+2024/11/25-13:42:38.135 eb4 Delete type=2 #21
+2024/11/25-13:42:38.135 eb4 Delete type=0 #23
+2024/11/25-13:42:38.135 eb4 Delete type=2 #24
+2024/11/25-13:42:38.136 eb4 Delete type=0 #26
+2024/11/25-13:42:38.136 eb4 Delete type=2 #27
+2024/11/25-19:56:07.894 eb4 Level-0 table #34: started
+2024/11/25-19:56:07.905 eb4 Level-0 table #34: 94747 bytes OK
+2024/11/25-19:56:07.907 eb4 Delete type=0 #29
+2024/11/25-21:00:46.307 428c Level-0 table #36: started
+2024/11/25-21:00:46.320 428c Level-0 table #36: 71949 bytes OK
+2024/11/25-21:00:46.322 428c Delete type=0 #33

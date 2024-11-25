@@ -1,24 +1,18 @@
-2024/11/25-13:32:53.411 4c3c Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.3156dcec\flutter_tools_chrome_device.b3a6ec84\Default\Sync Data\LevelDB/MANIFEST-000001
-2024/11/25-13:32:53.413 4c3c Recovering log #26
-2024/11/25-13:32:53.415 4c3c Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.3156dcec\flutter_tools_chrome_device.b3a6ec84\Default\Sync Data\LevelDB/000026.log 
-2024/11/25-13:32:53.416 4c3c Delete type=0 #3
-2024/11/25-13:32:53.416 4c3c Delete type=0 #6
-2024/11/25-13:32:53.416 4c3c Delete type=2 #7
-2024/11/25-13:32:53.416 4c3c Delete type=2 #10
-2024/11/25-13:32:53.417 4c3c Delete type=0 #11
-2024/11/25-13:32:53.417 4c3c Delete type=2 #12
-2024/11/25-13:32:53.417 4c3c Delete type=0 #16
-2024/11/25-13:32:53.418 4c3c Delete type=0 #20
-2024/11/25-13:32:53.418 4c3c Delete type=0 #23
-2024/11/25-13:33:01.637 9ac Level-0 table #30: started
-2024/11/25-13:33:01.643 9ac Level-0 table #30: 82724 bytes OK
-2024/11/25-13:33:01.645 9ac Delete type=0 #26
-2024/11/25-13:33:01.646 9ac Compacting 4@0 + 1@1 files
-2024/11/25-13:33:01.657 9ac Generated table #31@0: 444 keys, 39049 bytes
-2024/11/25-13:33:01.657 9ac Compacted 4@0 + 1@1 files => 39049 bytes
-2024/11/25-13:33:01.658 9ac compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/25-13:33:01.659 9ac Delete type=2 #18
-2024/11/25-13:33:01.659 9ac Delete type=2 #21
-2024/11/25-13:33:01.659 9ac Delete type=2 #24
-2024/11/25-13:33:01.659 9ac Delete type=2 #27
-2024/11/25-13:33:01.659 9ac Delete type=2 #30
+2024/11/25-21:02:06.746 1bb8 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.678702ab\flutter_tools_chrome_device.b3e0b051\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/11/25-21:02:06.749 1bb8 Recovering log #35
+2024/11/25-21:02:06.751 1bb8 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.678702ab\flutter_tools_chrome_device.b3e0b051\Default\Sync Data\LevelDB/000035.log 
+2024/11/25-21:02:06.752 1bb8 Delete type=0 #3
+2024/11/25-21:02:06.753 1bb8 Delete type=0 #6
+2024/11/25-21:02:06.753 1bb8 Delete type=2 #7
+2024/11/25-21:02:06.753 1bb8 Delete type=2 #10
+2024/11/25-21:02:06.753 1bb8 Delete type=0 #11
+2024/11/25-21:02:06.753 1bb8 Delete type=2 #12
+2024/11/25-21:02:06.753 1bb8 Delete type=0 #16
+2024/11/25-21:02:06.753 1bb8 Delete type=2 #18
+2024/11/25-21:02:06.759 1bb8 Delete type=0 #20
+2024/11/25-21:02:06.760 1bb8 Delete type=2 #21
+2024/11/25-21:02:06.760 1bb8 Delete type=0 #23
+2024/11/25-21:02:06.760 1bb8 Delete type=2 #24
+2024/11/25-21:02:06.760 1bb8 Delete type=0 #26
+2024/11/25-21:02:06.761 1bb8 Delete type=2 #27
+2024/11/25-21:02:06.761 1bb8 Delete type=0 #29
