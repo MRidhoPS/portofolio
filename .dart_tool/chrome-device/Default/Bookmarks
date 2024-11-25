@@ -1,0 +1,286 @@
+{
+   "checksum": "173e950d9df7f7e929a9094d5cd83e89",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13367907895610645",
+            "date_last_used": "13371362774892043",
+            "guid": "bea1b160-61e5-46f6-8c0c-1003c04f9e9c",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/",
+            "visit_count": 38
+         }, {
+            "date_added": "13245077146590985",
+            "date_last_used": "0",
+            "guid": "b51e66f5-2a68-48da-91e8-8ecced31612b",
+            "id": "12",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13245077146591641",
+            "date_last_used": "13371465865374645",
+            "guid": "011f3d4c-15c5-4bb1-b851-27b8166a4b0f",
+            "id": "13",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 48
+         }, {
+            "date_added": "13367989177846250",
+            "date_last_used": "0",
+            "guid": "23f77e5b-052a-4659-9b5c-095c56014f14",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13287042815559206",
+            "date_last_used": "0",
+            "guid": "dee88742-dd00-446f-b168-3b0fe840c942",
+            "id": "15",
+            "name": "Jaksbux4d (Starbucks Pondok Bambu) - Outlook Web App",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://webmail.map.co.id/owa/#path=/mail",
+            "visit_count": 0
+         }, {
+            "date_added": "13287823064953965",
+            "date_last_used": "0",
+            "guid": "9bc62b08-b577-4f5e-bcdd-f8bfc5b1ec3b",
+            "id": "16",
+            "name": "Reporting and Analytics",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://euf04-ohra-prod.hospitality.oracleindustry.com/login.jsp",
+            "visit_count": 0
+         }, {
+            "date_added": "13293259374999241",
+            "date_last_used": "0",
+            "guid": "36de53b8-3529-43c6-bbe0-eb62ee7442e7",
+            "id": "17",
+            "name": "MAP Group",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://map.darwinbox.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13319782311925594",
+            "date_last_used": "13368495737344987",
+            "guid": "810c86f9-64ee-4015-9684-a469644b55fd",
+            "id": "18",
+            "name": "Mail - Starbucks Grand Galaxy Park Bekasi - Outlook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/",
+            "visit_count": 0
+         }, {
+            "date_added": "13329160873874530",
+            "date_last_used": "0",
+            "guid": "5de96310-1875-4999-9324-0fabf10d5d2f",
+            "id": "19",
+            "name": "Zenput",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.zenput.com/mobile/",
+            "visit_count": 0
+         }, {
+            "date_added": "13342506022818346",
+            "date_last_used": "0",
+            "guid": "aeed511e-c8e3-48b0-af33-66ae4f384be6",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mail - Starbucks Grand Galaxy Park Bekasi - Outlook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/inbox/id/AQQkADRmMDI5Y2FmLWNhNjAtNGQ2OS05MWI0LWExMzMCY2UyMGU0ABAARDzOvFyiTUSCp03KbVaW8g%3D%3D",
+            "visit_count": 0
+         }, {
+            "date_added": "13343070341287865",
+            "date_last_used": "0",
+            "guid": "3ea03350-7cb3-4638-a4e5-8a375fc2beca",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lk21 Nonton Film dan Series Streaming Download Layarkaca21 Dunia21",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tv2.lk21official.wiki/",
+            "visit_count": 0
+         }, {
+            "date_added": "13351627235254346",
+            "date_last_used": "0",
+            "guid": "f8530f2a-4d35-4e28-805f-72c3716ea7d0",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Coffee PowerPoint Templates for Free",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.free-powerpoint-templates-design.com/coffee-powerpoint-templates/",
+            "visit_count": 0
+         }, {
+            "date_added": "13351627242882262",
+            "date_last_used": "0",
+            "guid": "564445d2-3134-472d-91b2-94cbca00caf9",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Free PowerPoint Templates Design",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.free-powerpoint-templates-design.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13299385032809931",
+            "date_last_used": "13367907907390579",
+            "guid": "efb466be-9431-4994-9415-2d3722e97c6c",
+            "id": "24",
+            "name": "#25 Tutorial Flutter Megirim Data Navigasi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.konsepkoding.com/2020/06/tutorial-flutter-megirim-data-navigasi.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13356548144199032",
+            "date_last_used": "0",
+            "guid": "f08d0ec1-d8bc-48ef-b03d-ce2be942e12a",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Final Budget 2024 for DMSMs.xlsx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mapcoid-my.sharepoint.com/:x:/r/personal/irwan_indriyanto_map_co_id/_layouts/15/guestaccess.aspx?e=4%3AcngHQ2&fromShare=true&at=9&CID=93bcb946-00bd-63b3-1ab9-2bff5f678bb6&share=EVigXwCpWSFIvnYkEyRBSS0BwJqKQPJOBQBjl3BUxmRBLg",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13245028215979064",
+               "date_last_used": "0",
+               "guid": "6f35f27c-1787-4670-853a-928c22da018c",
+               "id": "27",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://support.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13245028215984309",
+               "date_last_used": "0",
+               "guid": "fc73d5ba-2aae-4d0a-8278-dce518e600ed",
+               "id": "28",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.lenovo.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13369976709122199",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "118c640a-5535-4bb6-93c4-daf41e000781",
+            "id": "26",
+            "name": "Lenovo",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13369138666841916",
+            "date_last_used": "0",
+            "guid": "a7ed080e-b05b-4ccb-b038-32189d2e78ad",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "warehouse-project - Cloud Firestore - Firebase console",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://console.firebase.google.com/project/warehouse-project-56bf2/firestore",
+            "visit_count": 1
+         }, {
+            "date_added": "13369209078536508",
+            "date_last_used": "0",
+            "guid": "3bb706e1-16b0-4f74-bfaa-e7643602f6af",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(11) YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 1
+         } ],
+         "date_added": "13369976704821887",
+         "date_last_used": "0",
+         "date_modified": "13369209078536508",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13369976704821914",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13369976704821918",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAMz/pmSAQAAEgAqGEppUXlhWXphYkVveDZTbjdVNWpPSWc9PUgDoAYEEq8BCB4SqgEKHHk2MG1veVVGQUhWYnFsT25tWmRRREh0dWFHWT0SJDNiYjcwNmUxLTE2YjAtNGY3NC1iZmFhLWU3NjQzNjAyZjZhZhgAIAAoADD/qYvGoTI4xv77kZkyQP+pi8ahMkocVWRrdjFsU2tTSUl1UXUvVWh2YndHNFlBYnA0PVomIiT/////AAAABDlMYjQrcjV3MERXQXJWL2g5L3JTemd1RnZwMD1lOPk5MxKrAQgZEqYBChwxMlhVbmlYVDJjYWRQcWZ5MVB3RGM1bE1rZEk9EiRmMDhkMGVjMS1kOGJjLTQ4ZWYtYjAzZC1jZTJiZTk0MmUxMmEYACACKAIwzK2xx6kyOLb24vzpMUDMrbHHqTJKHDhSQ21DdDlxVG5CT1kxN1BZZVg5S3kzUnRKdz1aIiIg////+nV5TjdNbHhORkRBTC9QNDJsU2ErZjlDOTF5dz1lfiC27xKrAQgaEqYBChwrQ3dzOFdiMS9XTkxqVXZkZkR2a2srZGJldlk9EiQxMThjNjQwYS01NTM1LTRiYjYtOTNjNC1kYWY0MWUwMDA3ODEYACAAKAAw3bv3zJQyOMfC98yUMkDHwvfMlDJKHEsxZyswRjYrTXhSM2IvNVNQRDZUYVp5Wno4ND1aIiIg/////U9YcVZTQXBzVkZIemR3U3JWUndJZ203eVJpVT1lAAAAABKrAQgdEqYBChxLYWk0OUtVMHlnYnhac1VwWTdUZTdoaFRudlU9EiRhN2VkMDgwZS1iMDViLTRjY2ItYjAzOC0zMjE4OWQyZTc4YWQYACAAKAAw9Key8JgyOOCpsvCYMkDgqbLwmDJKHHhnbDBPZG9iWVNaeGdDSGN6bGpScEJ1emdpaz1aIiIg/////k9yWUN1WUs5SHF4RGlvMC9YMFFsaWlmR1d1ND1l82oRyRKrAQgVEqYBChxIOVRvZy9JMzREelNxdmI2NDgzN0ZuVmw4Z2c9EiQzZWEwMzM1MC03Y2IzLTQ2MzgtYTRlNS04YTM3NWZjMmJlY2EYACACKAIwya2xx6kyOKuWhuK3MUDJrbHHqTJKHGpHM2ZlbjVaRzM5Wmt0SEQ0VFVwenJnSU1GUT1aIiIg////0mF4bzFmYUJvZy9ydHNFNEk3c0pMdzdPSGM2ND1l74qwdRKpAQgREqQBChxtQmlLNmw2ZEV3MjNkcnpaUHYrTWYzVHJXZXM9EiQzNmRlNTNiOC0zNTI5LTQzYzYtYmJlMC1lYjYyZWU3NDQyZTcYACACKAIwx62xx6kyOOTT8ruxMEDHrbHHqTJKHGN0aUpMTEpyUXU4M2R6WGRDWjk0Nk1Vb1N4RT1aICIe//pVOXcvamZHZGp1Qk5meWQrR29FQ2FkbkV0QXM9ZREkJmwSqQEIEBKkAQocSFVrS0c0d056Z3h2Q3hYWFdZQ3ZOQjU3UDBNPRIkOWJjNjJiMDgtYjU3Ny00ZjVlLWJjZGQtZjhiZmM1YjFlYzNiGAAgAigCMMatscepMjj91fK7sTBAxq2xx6kyShxjNGZ6K3VDcWVNM1ozUlhRaHRlaFcxTkVHdUU9WiAiHv/1UW05V09wR1loNGZTZ2p0TWd3WWx4bkpuaWpRPWWyuONCEqsBCBcSpgEKHExJc0hRVS8vblF4QlFGR2JWbXVKNm5idXRRUT0SJDU2NDQ0NWQyLTMxMzQtNDcyZC05MWIyLTk0Y2JjYTAwY2FmORgAIAIoAjDDrbHHqTI448em0tcxQMOtscepMkocU01YdG5TaFVGdHVCZXU3MXpQanVxTWpDcmVFPVoiIiD////0dnd1MjI2dStPN3dFUjZKM3hPdEg3QXlCMDhVPWVT7SEJEqkBCA8SpAEKHDgxVVRkeFpRMjJ1YWNlalpMNXJQeXBxRFRWRT0SJGRlZTg4NzQyLWRkMDAtNDQ2Zi1iMTY4LTNiMGZlODQwYzk0MhgAIAAoADCy0/K7sTA44dTyu7EwQOHU8ruxMEocQUg1Ull4THhmNVo3VDdsa0RQZTgxNG1Sdzk4PVogIh7/60ZqRXBVSTRhSU1BRkZkaUxxZGNoZDNRUjVBTT1lAAAAABKqAQgTEqUBChxTUlJrcHNBcWhUTHpwRmxIZ3ZrYTI4SkMzbzg9EiQ1ZGU5NjMxMC0xODc1LTQ5OTktOTMyNC0wZmFiZjEwZDVkMmYYACACKAIwy62xx6kyOMbKv/mDMUDLrbHHqTJKHGtybHZ5RituR0R5Vm91SHpNdkRYMTBOTHU1ND1aISIf////SmtTU0JSU2cwNi9UOHlmYWVEY1BZazdJNkRrPWXMcRKkEqsBCBYSpgEKHGhtSXRjNThZUnBxUk9qZkVRQkhYaUpBL3FYaz0SJGY4NTMwZjJhLTRkMzUtNGUyOC04MDVmLTcyYzM3MTZlYTdkMBgAIAIoAjDBrbHHqTI4o4ym0tcxQMGtscepMkocUllTdmt1WUdxeGxQYU8zSEg1MHQwaTl1Z1MwPVoiIiD////pQVg3Qm1idCtpZGlCcUJtY1NTYzBwbGppV1ZVPWVT7SEJEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDI1YjRhNzIyLTJjYWEtNTM2MS05ZWM4LTFmMGVjN2ZkMjVlYxgAIAAoADCxmpDksDA445Hxve4vQOOR8b3uL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIDhKjAQocMXk2UjU4TjJIWW1Xcm9vdFZBVjdNODR2Y2RzPRIkMjNmNzdlNWItMDUyYS00NjU5LTliNWMtMDk1YzU2MDE0ZjE0GAAgAigCMMKtscepMjjJmaPMlDJAwq2xx6kyShxSTlY4WjBQT1ZoYkEzMEZ0OG5RWjk1US9sQ009Wh8iHf5tZTJyaFFyUXBMWUY2RG0xQk43R0x4RXNQcU09ZbbRMeISqwEIFBKmAQocRlhBUTA2bDVqQzAyQzVyTUFPSDM2NTlmVTNVPRIkYWVlZDUxMWUtYzhlMy00OGIwLWFmMzMtNjZhZTRmMzg0YmU2GAAgAigCMMCtscepMjjQwvrUtTFAwK2xx6kyShxnNVJzNUNlWEg0djMrNGtpcmxBVUZld1o4UlE9WiIiIP///6VEbUxqUDBhaXFSMkRUVlF5Zkt5ZW9pVE44Wlk9ZeG9t8sSqAEIDRKjAQocWU51WlRaWTlKd0RBODB4bVN5UVk1Y2cwNmVnPRIkMDExZjNkNGMtMTVjNS00YmIxLWI4NTEtMjdiODE2NmE0YjBmGAAgAigCMMWtscepMjje1fK7sTBAxa2xx6kyShx2UWkrN0xlbUI2aGdvVG1CUlo2ZlFlTFVyMTg9Wh8iHf45TVpTblJpYU1oY2p0MzVQRzYzTmNDZ29JYXc9ZTj5OTMSqAEIDBKjAQoceG1YWXJJaTVwZ1hKRHhlSHRNY3RoVlVRRHZjPRIkYjUxZTY2ZjUtMmE2OC00OGRhLTkxZTgtOGVjY2VkMzE2MTJiGAAgAigCMMStscepMjis1vK7sTBAxK2xx6kyShwvN1g2b3JpcHdYY29BY1h6VEFyUGhzbDhNOUE9Wh8iHf1XdDk4REVPcXBFMUxrckxpRGpEc1pnc1h5b2M9ZZs9hbYSqAEIHBKjAQocdnp4anp3d3puUGlTcWdpVmdLbVJUZmIzZUpFPRIkZmM3M2Q1YmEtMmFhZS00ZDBhLTgyNzgtZGNlNTE4ZTYwMGVkGAAgACgAMN+798yUMjiRw/fMlDJAkcP3zJQyShx5RmxZTEpNV0x4MHZoZ3VEU292czRpSEh0N3c9Wh8iHbA5VkRkSjR5NEtvd2NnZkpvdktYd20rMkxYSmc9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZGQzODRiMDMtMzFkNS01MDlkLWJhZjQtYWEyNzRkZTlmZGRjGAAgACgAMLGakOSwMDjmkPG97i9A5pDxve4vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgbEqIBChxFSEJhRmJCYXBoQk0rZlRlbWozL1ZOaGNlUXc9EiQ2ZjM1ZjI3Yy0xNzg3LTQ2NzAtODUzYS05MjhjMjJkYTAxOGMYACAAKAAw3rv3zJQyOOvC98yUMkDrwvfMlDJKHDRxWkt6ZlpjRk1ORmg0SXFJb2xpSFdyYVRJcz1aHiIcYWk5bmNxdkdZc2J2RWo4Sk51cjVIeE5OVEE0PWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDFlMmFhY2Q2LWVhMDMtNWJiMS1hNzlmLWQ5YWFkZDhmOWVjMRgAIAAoADCxmpDksDA4x5Dxve4vQMeQ8b3uL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqgEIEhKlAQocSXFveFkwU011dE9BSnNlM2NRcGtZdG9CZ0w0PRIkODEwYzg2ZjktNjRlZS00MDE1LTk2ODQtYTQ2OTY0NGI1NWZkGAAgAigCML+tscepMjjxn7mB4TBAv62xx6kyShxGc2xMdmNJTFFZTExLRHRENXdnZ0NRWTIvVDA9WiEiH///9y90c0NRdU1DUDdFait6NUc0Um1vUWl1dlJ4ST1l4b23yxKoAQgLEqMBChxUZE9HMnRsV1E4aEppWWtIaUtTc1MxMnhiYmM9EiRiZWExYjE2MC02MWU1LTQ2ZjYtOGMwYy0xMDAzYzA0ZjllOWMYACACKAIwyq2xx6kyOPyKwqWUMkDKrbHHqTJKHDk3S2dyN0t0KzU4Q296Nkh6ZVNZbi9nOEEydz1aHyId9HFqTmJ2VkdjM1MrV1V0eTdpV2NzZGtXV3h2OD1lfC1UgBKrAQgYEqYBChxBSklEd3A1ck9kcXZ2MGJxVFdnRDhpTnlYN2s9EiRlZmI0NjZiZS05NDMxLTQ5OTQtOTQxNS0yZDM3MjJlOTdjNmMYACACKAIwyK2xx6kyOKmUooOVMEDIrbHHqTJKHGNqR2wxaEVUcWRXUjdCa2NRRU11VE1tRWlnbz1aIiIg////9zc5MzlCTjBBbmtqVndxM3lQT2hGbjFvaEhtbz1lpjvU4DAAOAA=",
+   "version": 1
+}
