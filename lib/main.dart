@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:portofolio/pages/dekstop.dart';
-import 'package:portofolio/pages/mobile.dart';
-import 'package:responsive_builder/responsive_builder.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,16 +23,8 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: ResponsiveBuilder(
-        builder: (context, sizingInformation) {
-          if (sizingInformation.isDesktop) {
-            return const DesktopHome();
-          } else {
-            return const MobileHome();
-          }
-        },
-      ),
+    return const Scaffold(
+      body: DesktopHome()
     );
   }
 }

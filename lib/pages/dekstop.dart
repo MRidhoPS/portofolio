@@ -23,7 +23,7 @@ class DesktopHome extends StatelessWidget {
         child: Column(
           children: [
             Heading(
-                sizeWidth: sizeWidth,
+                sizeWidth: sizeWidth  * 0.07,
                 sectionHome: sectionHome,
                 sectionAbout: sectionAbout,
                 sectionProject: sectionProject),
@@ -42,6 +42,7 @@ class DesktopHome extends StatelessWidget {
               sizeWidth: sizeWidth,
               sectionProject: sectionProject,
             ),
+            
           ],
         ),
       ),

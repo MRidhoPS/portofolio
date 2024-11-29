@@ -1,3 +1,5 @@
-2024/09/05-13:20:17.033 2d48 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.e41eab3b\flutter_tools_chrome_device.7a7359e3\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/05-13:20:17.033 2d48 Recovering log #4
-2024/09/05-13:20:17.034 2d48 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.e41eab3b\flutter_tools_chrome_device.7a7359e3\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/000004.log 
+2024/11/29-14:11:03.880 4618 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.c9531b25\flutter_tools_chrome_device.3ca41616\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/29-14:11:03.881 4618 Recovering log #7
+2024/11/29-14:11:03.882 4618 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.c9531b25\flutter_tools_chrome_device.3ca41616\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/000007.log 
+2024/11/29-14:11:03.883 4618 Delete type=0 #4
+2024/11/29-14:11:03.883 4618 Delete type=2 #5
