@@ -50,7 +50,7 @@ class Home extends StatelessWidget {
                       );
                     } else {
                       return const TextRichHome(
-                        size: 30 ,
+                        size: 30,
                       );
                     }
                   },
@@ -74,10 +74,18 @@ class Home extends StatelessWidget {
                 },
                 child: ResponsiveBuilder(
                   builder: (context, sizingInformation) {
-                    if (sizingInformation.isDesktop){
-                      return const ButtonHire(height: 45, width: 150, sizeText: 18,);
+                    if (sizingInformation.isDesktop) {
+                      return const ButtonHire(
+                        height: 45,
+                        width: 150,
+                        sizeText: 18,
+                      );
                     } else {
-                      return const ButtonHire(height: 30, width: 130, sizeText: 15,);
+                      return const ButtonHire(
+                        height: 30,
+                        width: 130,
+                        sizeText: 15,
+                      );
                     }
                   },
                 ),
@@ -98,14 +106,12 @@ class Home extends StatelessWidget {
                       curve: Curves.easeIn,
                     )
                   ],
-                  child: Expanded(
-                    child: SizedBox(
-                      height: sizeHeight * 0.6,
-                      width: sizeWidth * 0.3,
-                      child: Image.asset(
-                        'assets/Saly.png',
-                        fit: BoxFit.cover,
-                      ),
+                  child: SizedBox(
+                    height: sizeHeight * 0.6,
+                    width: sizeWidth * 0.3,
+                    child: Image.asset(
+                      'assets/Saly.png',
+                      fit: BoxFit.cover,
                     ),
                   ),
                 );
@@ -113,7 +119,7 @@ class Home extends StatelessWidget {
                 return const SizedBox();
               }
             },
-          )
+          ),
         ],
       ),
     );

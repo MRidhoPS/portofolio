@@ -13,18 +13,18 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(scaffoldBackgroundColor: const Color.fromRGBO(45, 52, 128, 1)),
       debugShowCheckedModeBanner: false,
-      home: const HomePage(),
+      home: const DesktopHome(),
     );
   }
 }
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+// class HomePage extends StatelessWidget {
+//   const HomePage({super.key});
 
-  @override
-  Widget build(BuildContext context) {
-    return const Scaffold(
-      body: DesktopHome()
-    );
-  }
-}
+//   @override
+//   Widget build(BuildContext context) {
+//     return const Scaffold(
+//       body: DesktopHome()
+//     );
+//   }
+// }
