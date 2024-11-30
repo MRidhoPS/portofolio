@@ -13,9 +13,10 @@ class DesktopHome extends StatelessWidget {
   Widget build(BuildContext context) {
     final sizeWidth = MediaQuery.of(context).size.width;
     final sizeHeight = MediaQuery.of(context).size.height;
-    final sectionHome = GlobalKey();
-    final sectionAbout = GlobalKey();
-    final sectionProject = GlobalKey();
+    final GlobalKey<State<StatefulWidget>> sectionHeading = GlobalKey();
+    final GlobalKey<State<StatefulWidget>> sectionHome = GlobalKey();
+    final GlobalKey<State<StatefulWidget>> sectionAbout = GlobalKey();
+    final GlobalKey<State<StatefulWidget>> sectionProject = GlobalKey();
 
     return Scaffold(
       body: SingleChildScrollView(
@@ -23,13 +24,15 @@ class DesktopHome extends StatelessWidget {
         child: Column(
           children: [
             Heading(
+                key: sectionHeading,
                 sizeWidth: sizeWidth  * 0.07,
-                sectionHome: sectionHome,
+                // sectionHome: sectionHome,
                 sectionAbout: sectionAbout,
                 sectionProject: sectionProject),
             Home(
               sizeWidth: sizeWidth,
               sizeHeight: sizeHeight,
+              sectionHome: sectionHome,
             ),
             const SizedBox(height: 50),
             AboutMe(
@@ -49,7 +52,7 @@ class DesktopHome extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.white,
         onPressed: () {
-          ControllerPage().sectionFunction(sectionHome);
+          ControllerPage().sectionFunction(sectionHeading);
         },
         child: const Text(
           '🔝',

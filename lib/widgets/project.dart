@@ -19,17 +19,23 @@ class Project extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ResponsiveBuilder(
-      builder: (context, sizingInformation) {
-        if (sizingInformation.isDesktop) {
-          return ShowProjectDesktop(sectionProject: sectionProject, sizeHeight: sizeHeight, sizeWidth: sizeWidth);
-        } else if (sizingInformation.isMobile) {
-          return ShowProjectMobile(
-              sizeHeight: sizeHeight, sizeWidth: sizeWidth);
-        } else {
-          return const SizedBox();
-        }
-      },
+    return Container(
+      key: sectionProject,
+      child: ResponsiveBuilder(
+        builder: (context, sizingInformation) {
+          if (sizingInformation.isDesktop) {
+            return ShowProjectDesktop(
+                sectionProject: sectionProject,
+                sizeHeight: sizeHeight,
+                sizeWidth: sizeWidth);
+          } else if (sizingInformation.isMobile) {
+            return ShowProjectMobile(
+                sizeHeight: sizeHeight, sizeWidth: sizeWidth);
+          } else {
+            return const SizedBox();
+          }
+        },
+      ),
     );
   }
 }
@@ -49,7 +55,6 @@ class ShowProjectDesktop extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      key: sectionProject,
       color: primaryCOlor,
       height: sizeHeight,
       width: sizeWidth,
@@ -96,7 +101,8 @@ class ShowProjectDesktop extends StatelessWidget {
                   ],
                 ),
               ),
-              ListOfProjectDesktop(sizeWidth: sizeWidth, sizeHeight: sizeHeight),
+              ListOfProjectDesktop(
+                  sizeWidth: sizeWidth, sizeHeight: sizeHeight),
             ],
           ),
         ],
@@ -133,7 +139,7 @@ class ListOfProjectDesktop extends StatelessWidget {
           final image = dataList['image'] ?? '';
           final title = dataList['title'] ?? 'Unknown Title';
           final tech = dataList['tech'] ?? 'Unknown Tech';
-        
+
           return Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20),
             child: SizedBox(
@@ -152,16 +158,13 @@ class ListOfProjectDesktop extends StatelessWidget {
                     Positioned(
                       bottom: 0,
                       child: Container(
-                        padding:
-                            const EdgeInsets.only(left: 30),
+                        padding: const EdgeInsets.only(left: 30),
                         width: sizeWidth * 0.9, // Adjust width
                         height: 150,
                         color: Colors.black54,
                         child: Column(
-                          crossAxisAlignment:
-                              CrossAxisAlignment.start,
-                          mainAxisAlignment:
-                              MainAxisAlignment.center,
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
                               title,
@@ -267,7 +270,7 @@ class ListofProjectMobile extends StatelessWidget {
           final image = dataList['image'] ?? '';
           final title = dataList['title'] ?? 'Unknown Title';
           final tech = dataList['tech'] ?? 'Unknown Tech';
-    
+
           return Padding(
             padding: const EdgeInsets.symmetric(horizontal: 10),
             child: ClipRRect(

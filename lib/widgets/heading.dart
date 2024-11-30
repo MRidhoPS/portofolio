@@ -10,13 +10,13 @@ class Heading extends StatefulWidget {
   const Heading({
     super.key,
     required this.sizeWidth,
-    required this.sectionHome,
+    // required this.sectionHome,
     required this.sectionAbout,
     required this.sectionProject,
   });
 
   final double sizeWidth;
-  final GlobalKey<State<StatefulWidget>> sectionHome;
+  // final GlobalKey<State<StatefulWidget>> sectionHome;
   final GlobalKey<State<StatefulWidget>> sectionAbout;
   final GlobalKey<State<StatefulWidget>> sectionProject;
 
@@ -65,7 +65,7 @@ class _HeadingState extends State<Heading> {
 
   Container containerHeading() {
     return Container(
-      key: widget.sectionHome,
+      // key: widget.sectionHome,
       padding: const EdgeInsets.only(left: 30),
       margin: const EdgeInsets.fromLTRB(100, 50, 100, 0),
       width: double.infinity,
@@ -84,21 +84,14 @@ class _HeadingState extends State<Heading> {
   SizedBox headingNavBar() {
     return SizedBox(
       height: 100,
+      width: MediaQuery.of(context).size.width * 0.4,
       child: Stack(
         children: [
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            mainAxisSize: MainAxisSize.max,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              SizedBox(
-                width: widget.sizeWidth,
-              ),
-                  navBarButton(widget.sectionHome, 'Home'),
-              SizedBox(
-                width: widget.sizeWidth,
-              ),
-              navBarButton(widget.sectionAbout, 'About Me'),
+              navBarButton(widget.sectionAbout, 'About'),
               SizedBox(
                 width: widget.sizeWidth,
               ),
@@ -162,12 +155,21 @@ class _HeadingState extends State<Heading> {
     );
   }
 
-  GestureDetector navBarButton(widget, title) {
+  GestureDetector navBarButton(GlobalKey? widget, String title) {
     return GestureDetector(
       onTap: () {
-        controllerPage.sectionFunction(widget);
+        try {
+          if (widget?.currentContext != null) {
+            controllerPage.sectionFunction(widget!);
+            print('Navigating to: $title');
+          } else {
+            print('Error: $title key is null or context is not found');
+          }
+        } on Exception catch (e) {
+          print(e);
+        }
       },
-      child:  Text(
+      child: Text(
         title,
         style: const TextStyle(
           fontSize: 18,

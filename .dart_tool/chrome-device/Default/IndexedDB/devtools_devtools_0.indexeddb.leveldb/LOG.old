@@ -1,5 +1,17 @@
-2024/11/29-16:36:07.730 1d44 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.d06cf691\flutter_tools_chrome_device.3eeb832\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/29-16:36:07.731 1d44 Recovering log #7
-2024/11/29-16:36:07.732 1d44 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.d06cf691\flutter_tools_chrome_device.3eeb832\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/000007.log 
-2024/11/29-16:36:07.732 1d44 Delete type=0 #4
-2024/11/29-16:36:07.733 1d44 Delete type=2 #5
+2024/11/30-20:39:27.203 1d9c Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.a9dbda69\flutter_tools_chrome_device.bf055f25\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/30-20:39:27.204 1d9c Recovering log #7
+2024/11/30-20:39:27.205 1d9c Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.a9dbda69\flutter_tools_chrome_device.bf055f25\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/000007.log 
+2024/11/30-20:39:27.206 1d9c Delete type=0 #4
+2024/11/30-20:39:27.206 1d9c Delete type=2 #5
+2024/11/30-20:46:25.193 d4c Level-0 table #12: started
+2024/11/30-20:46:25.195 d4c Level-0 table #12: 190 bytes OK
+2024/11/30-20:46:25.197 d4c Delete type=0 #7
+2024/11/30-20:46:25.198 1d9c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/30-20:46:25.198 1d9c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 63 : 1
+2024/11/30-20:46:25.199 1d9c Compacting 1@1 + 1@2 files
+2024/11/30-20:46:25.201 1d9c Generated table #13@1: 23 keys, 556 bytes
+2024/11/30-20:46:25.201 1d9c Compacted 1@1 + 1@2 files => 556 bytes
+2024/11/30-20:46:25.202 1d9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/30-20:46:25.203 1d9c Delete type=2 #9
+2024/11/30-20:46:25.203 1d9c Delete type=2 #12
+2024/11/30-20:46:25.205 1d9c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 63 : 1 .. (end); will stop at (end)

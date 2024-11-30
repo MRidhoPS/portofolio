@@ -13,15 +13,17 @@ class Home extends StatelessWidget {
   const Home({
     super.key,
     required this.sizeWidth,
-    required this.sizeHeight,
+    required this.sizeHeight, required this.sectionHome,
   });
 
   final double sizeWidth;
   final double sizeHeight;
+  final GlobalKey<State<StatefulWidget>> sectionHome;
 
   @override
   Widget build(BuildContext context) {
     return Container(
+      key: sectionHome,
       margin:
           EdgeInsets.only(left: sizeWidth * 0.073, right: sizeWidth * 0.073),
       width: sizeWidth,

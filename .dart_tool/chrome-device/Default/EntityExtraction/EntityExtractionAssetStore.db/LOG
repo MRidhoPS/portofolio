@@ -1,5 +1,4 @@
-2024/11/28-22:57:21.279 20f0 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.63af7828\flutter_tools_chrome_device.44cb41f5\Default\EntityExtractionAssetStore.db/MANIFEST-000001
-2024/11/28-22:57:21.301 20f0 Recovering log #3
-2024/11/28-22:57:21.304 20f0 Level-0 table #3: started
-2024/11/28-22:57:21.379 20f0 Level-0 table #3: 235314 bytes OK
-2024/11/28-22:57:21.392 20f0 Delete type=0 #3
+2024/11/30-19:44:40.772 4654 Reusing MANIFEST C:\Users\Ridho\AppData\Local\Temp\flutter_tools.a9dbda69\flutter_tools_chrome_device.bf055f25\Default\EntityExtractionAssetStore.db/MANIFEST-000001
+2024/11/30-19:44:40.843 4654 Recovering log #4
+2024/11/30-19:44:40.854 4654 Reusing old log C:\Users\Ridho\AppData\Local\Temp\flutter_tools.a9dbda69\flutter_tools_chrome_device.bf055f25\Default\EntityExtractionAssetStore.db/000004.log 
+2024/11/30-19:44:40.869 4654 Delete type=0 #3
